@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> The Practice Makes Genius</title>
+    </head> 
+    <body>
+        <h1>For practing Math</h1>
+        <h2>For Ages 5-12</h2>
+        <h3>Parctice Makes Genius</h3>
+        <h4>By Tiffany Michelle</h4>
+        <h5>Let's get Started</h5>
+        <hr>
+        <br>
+        <img src="rs=w_1160,h_1160.webp">
+        <p>Something will go here possibly a picture of the author
+         </p>
+         <a href="https://www.mathtutortiff.com/">
+         target="_blank"
+         title="takes you to tutoring website"   
+            click me
+         </a>
+         
+         <br>
+         
+         <a href="Instagram Math Tutor Tiff">Math Problems
+        </a>
+
+        <br>
+
+        <a href="email address">
+        target="_blank"
+        title="Email Me With Questions"    
+        </a>
+         <!--Comments Here-->>   
+</html>
